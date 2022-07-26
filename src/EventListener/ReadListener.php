@@ -117,6 +117,6 @@ final class ReadListener
         }
 
         $request->attributes->set('data', $data);
-        $request->attributes->set('previous_data', $this->clone($data));
+        // $request->attributes->set('previous_data', $this->clone($data));
     }
 }
