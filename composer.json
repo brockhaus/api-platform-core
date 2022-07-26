@@ -1,5 +1,5 @@
 {
-    "name": "api-platform/core",
+    "name": "brockhaus/api-platform-core",
     "description": "Build a fully-featured hypermedia or GraphQL API in minutes!",
     "type": "library",
     "keywords": ["REST", "GraphQL", "API", "JSON-LD", "Hydra", "JSONAPI", "OpenAPI", "HAL", "Swagger"],
